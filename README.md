@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **darshakchavda2000@gmail.com**
+- 📫 How to reach me **[Darshak Chavda]**(mailto:darshakchavda2000@gmail.com)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ZhoL28wHEFw0ojiRSjbejbIyBCrJ4i3T/view?usp=sharing](https://drive.google.com/file/d/1ZhoL28wHEFw0ojiRSjbejbIyBCrJ4i3T/view?usp=sharing)
 
