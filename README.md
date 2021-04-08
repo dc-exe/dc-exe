@@ -13,10 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_darshakchavda_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_darshakchavda_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshak-chavda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="darshak-chavda" height="30" width="40" /></a>
 <a href="https://instagram.com/_darshak.chavda_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_darshak.chavda_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dar5hak_c" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dar5hak_c" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/DarshakC" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="DarshakC" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/st1c6d5ngtvgzg52owh2ran8v" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="st1c6d5ngtvgzg52owh2ran8v"" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
