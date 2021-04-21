@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Darshak</h1>
+<!-- <h1 align="center">Hi 👋, I'm Darshak</h1>
 <h3 align="center">ICT Junior at Ahmedabad University. Keen Interest in User Interface Design. Flutter Enthusiast</h3>
 
 - 🔭 I’m currently working on [Health and Doctor Appointment](https://github.com/dc-exe/Health_and_Doctor_Appointment)
@@ -7,7 +7,13 @@
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **[Darshak Chavda](mailto:darshakchavda2000@gmail.com)**
+- 📫 How to reach me **[Darshak Chavda](mailto:darshakchavda2000@gmail.com)** -->
+
+![poster](./Assets/git-poster.png)
+
+---
+
+<h1 align="center">Hi 👋</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
