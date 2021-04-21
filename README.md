@@ -18,7 +18,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/darshak-chavda" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="darshakchavda"/></a>
 <a href="https://www.hackerrank.com/daR5haK_c" target="blank"><img src="https://img.shields.io/badge/Hackerrank-38424E?style=for-the-badge&logo=hackerrank&logoColor=white" alt="darshakchavda" /></a>
-<a href="https://www.instagram.com/_darshak.chavda_" target="blank"><img src="https://img.shields.io/badge/Spotify-C82258?style=for-the-badge&logo=spotify&logoColor=white" alt="darshakchavda" /></a>
+<a href="https://www.instagram.com/_darshak.chavda_" target="blank"><img src="https://img.shields.io/badge/Instagram-C82258?style=for-the-badge&logo=instagram&logoColor=white" alt="darshakchavda" /></a>
 <a href="https://www.reddit.com/user/DarshakC" target="blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="darshakchavda" /></a>
 <a href="https://open.spotify.com/user/st1c6d5ngtvgzg52owh2ran8v" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="darshakchavda" /></a>
 </p>
